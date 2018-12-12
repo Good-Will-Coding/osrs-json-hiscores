@@ -1,11 +1,11 @@
 const URLs = {
-    main: 'https://services.runescape.com/m=hiscore_oldschool/',
-    iron: 'https://services.runescape.com/m=hiscore_oldschool_ironman/',
-    ult: 'https://services.runescape.com/m=hiscore_oldschool_ultimate/',
-    hc: 'https://services.runescape.com/m=hiscore_oldschool_hardcore_ironman/',
-    dmm: 'https://services.runescape.com/m=hiscore_oldschool_deadman/',
-    sdmm: 'https://services.runescape.com/m=hiscore_oldschool_seasonal/',
-    dmmt: 'https://services.runescape.com/m=hiscore_oldschool_tournament/',
+    main: 'https://cors-anywhere.herokuapp.com/https://services.runescape.com/m=hiscore_oldschool/',
+    iron: 'https://cors-anywhere.herokuapp.com/https://services.runescape.com/m=hiscore_oldschool_ironman/',
+    ult: 'https://cors-anywhere.herokuapp.com/https://services.runescape.com/m=hiscore_oldschool_ultimate/',
+    hc: 'https://cors-anywhere.herokuapp.com/https://services.runescape.com/m=hiscore_oldschool_hardcore_ironman/',
+    dmm: 'https://cors-anywhere.herokuapp.com/https://services.runescape.com/m=hiscore_oldschool_deadman/',
+    sdmm: 'https://cors-anywhere.herokuapp.com/https://services.runescape.com/m=hiscore_oldschool_seasonal/',
+    dmmt: 'https://cors-anywhere.herokuapp.com/https://services.runescape.com/m=hiscore_oldschool_tournament/',
     stats: 'index_lite.ws?player=',
     scores: 'overall.ws?'
   },
